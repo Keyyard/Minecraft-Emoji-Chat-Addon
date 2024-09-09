@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Emoji Chat Addon",
+    "description": "Get more fun and creative chat with Emojis!\nby Keyyard Studio",
+    "uuid": "5c6c9658-aaca-45a2-966f-733e884e2da0",
+    "version": [1, 0, 1],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "8374ddd7-4d8d-4098-9526-22d0ef8045ca",
+      "version": [1, 0, 1]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "458410c1-0775-4e89-b913-cf77c3cc5fe6",
+      "version": [1, 0, 1]
+    }
+  ]
+}
