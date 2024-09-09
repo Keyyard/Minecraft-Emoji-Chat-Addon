@@ -1,11 +1,9 @@
 <div align="center">
 <h1> Minecraft Emoji Chat Addon </h1>
 
-![Banner](https://api.mcpedl.com/storage/submissions/177522/images/tree-capitator--vein-miner-addon_2.png)
+![Banner](/imgs/banner.png)
 
 Emoji Chat is an addon that lets you express the way you feel through emojis. With over 40 emoticons at your disposal, you can virtually smile or frown at someone if you want to be sarcastic or show sadness.
-
-![Static Badge](https://img.shields.io/badge/downloads-2.0M-blue)
 
 </div>
 
@@ -24,8 +22,6 @@ Assets were designed by @RealJoshMC.
 - justAsh: script assisting in v0.0.1
 
 ## Features
-
-![Banner](/imgs/banner.png)
 
 - **Emoji Chat:** Send emojis directly in the chat!
 - **Emoji Dictionary:** Quickly look up emojis that match your mood.
