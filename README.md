@@ -41,17 +41,17 @@ To use Emoji Chat, follow these steps:
 
 > Example: :smiley: for smiley icon
 
-[EmojiChat](/imgs/image1.png)
+![EmojiChat](/imgs/image.png)
 
-[EmojiChat](/imgs/image2.png)
+![EmojiChat](/imgs/image2.png)
 
 ## Emoji Dictionary
 
-[Emojis](/imgs/codes.png)
+![Emojis](imgs/codes.png)
 
 Emoji Dictionary, which is featured in the How to play section, allows you to quickly seek up emojis that match your mood.
 
-[HowToPlay](/imgs/image3.png)
+![HowToPlay](imgs/image3.png)
 
 ## Customization _advanced_
 
