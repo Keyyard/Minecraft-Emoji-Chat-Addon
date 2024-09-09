@@ -35,6 +35,8 @@ Assets were designed by @RealJoshMC.
 
 ## How to Use
 
+_before get in the world, please turn on the "Beta-API" option in the world settings._
+
 To use Emoji Chat, follow these steps:
 
 1. Open the chat window.
